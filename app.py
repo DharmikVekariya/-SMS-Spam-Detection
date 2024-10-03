@@ -6,8 +6,7 @@ import re
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
-nltk.download('stopwords')
-nltk.download('punkt')
+nltk.download()
 from nltk.stem import PorterStemmer
 
 port_stemmer = PorterStemmer()
