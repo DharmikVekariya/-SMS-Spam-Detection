@@ -57,4 +57,4 @@ The trained model achieved an **accuracy of 97.10 %** and **Precision is 100 %**
 
 ## Contact
 
-If you have any questions or suggestions regarding the project, feel free to contact **Vekariya Dharmik** at **Vekariyadharmik2002@gmail.com**.
+If you have any questions or suggestions regarding the project, feel free to contact **Dharmik Vekariya** at **Vekariyadharmik2002@gmail.com**.
